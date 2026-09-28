@@ -24,7 +24,4 @@ public class ConversorTemperatura {
 	public void setCelsius(double celsius) {
 		this.celsius = celsius;
 	}
-	
-	// comit1
-	// comit2
 }
