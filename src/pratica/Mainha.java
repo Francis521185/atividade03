@@ -34,8 +34,6 @@ public class Mainha {
 			System.out.println("Erro de validação: " + e.getMessage());
 		}
 			finally {leia.close();}
-		//teste
-		// com
 	}
 
 }
